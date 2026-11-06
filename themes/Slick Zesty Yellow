@@ -1,0 +1,23 @@
+# Slick Zesty Yellow (light)
+palette = 0=#38301f
+palette = 1=#e93e3f
+palette = 2=#598d00
+palette = 3=#c59f00
+palette = 4=#357bef
+palette = 5=#cd37e2
+palette = 6=#008ba3
+palette = 7=#85682f
+palette = 8=#695121
+palette = 9=#9e2728
+palette = 10=#3a5e00
+palette = 11=#856b00
+palette = 12=#2152a3
+palette = 13=#8b229a
+palette = 14=#005d6e
+palette = 15=#695121
+background = #ffffff
+foreground = #38301f
+cursor-color = #1a77ff
+cursor-text = #ffffff
+selection-background = #c9dfff
+selection-foreground = #38301f

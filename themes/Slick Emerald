@@ -1,0 +1,23 @@
+# Slick Emerald (dark)
+palette = 0=#002a19
+palette = 1=#ef4444
+palette = 2=#84cc16
+palette = 3=#facc15
+palette = 4=#3b82f6
+palette = 5=#d946ef
+palette = 6=#06b6d4
+palette = 7=#7ce2b2
+palette = 8=#00885c
+palette = 9=#fa7b73
+palette = 10=#a3da6b
+palette = 11=#fbda71
+palette = 12=#6ea3fb
+palette = 13=#e67ef5
+palette = 14=#6bc9df
+palette = 15=#dbffec
+background = #000603
+foreground = #dbffec
+cursor-color = #fe9a00
+cursor-text = #000603
+selection-background = #30260c
+selection-foreground = #dbffec

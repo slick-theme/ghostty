@@ -1,0 +1,23 @@
+# Slick Black (dark)
+palette = 0=#1e2130
+palette = 1=#ef4444
+palette = 2=#84cc16
+palette = 3=#facc15
+palette = 4=#3b82f6
+palette = 5=#d946ef
+palette = 6=#06b6d4
+palette = 7=#c8cddb
+palette = 8=#6f7587
+palette = 9=#fa7b73
+palette = 10=#a3da6b
+palette = 11=#fbda71
+palette = 12=#6ea3fb
+palette = 13=#e67ef5
+palette = 14=#6bc9df
+palette = 15=#f3f5fb
+background = #010202
+foreground = #f3f5fb
+cursor-color = #999999
+cursor-text = #010202
+selection-background = #1b1e1e
+selection-foreground = #f3f5fb

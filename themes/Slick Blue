@@ -1,0 +1,23 @@
+# Slick Blue (dark)
+palette = 0=#001f54
+palette = 1=#ef4444
+palette = 2=#84cc16
+palette = 3=#facc15
+palette = 4=#3b82f6
+palette = 5=#d946ef
+palette = 6=#06b6d4
+palette = 7=#afcfff
+palette = 8=#1870ee
+palette = 9=#fa7b73
+palette = 10=#a3da6b
+palette = 11=#fbda71
+palette = 12=#6ea3fb
+palette = 13=#e67ef5
+palette = 14=#6bc9df
+palette = 15=#eff6ff
+background = #000209
+foreground = #eff6ff
+cursor-color = #ffdf20
+cursor-text = #000209
+selection-background = #2a2d1e
+selection-foreground = #eff6ff
